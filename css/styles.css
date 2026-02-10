@@ -308,13 +308,13 @@ header {
 }
 
 .social-link {
-  width: 40px; /* Mavi çerçeve genişliği */
-  height: 40px; /* Mavi çerçeve yüksekliği */
+  width: 40px;
+  height: 40px;
   background-color: #4d5ae5;
   border-radius: 50%;
   display: flex;
-  align-items: center; /* Dikeyde tam orta */
-  justify-content: center; /* Yatayda tam orta */
+  align-items: center;
+  justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -491,14 +491,15 @@ header {
   height: 40px;
   background-color: #4d5ae5;
   border-radius: 50%;
-  display: flex; /* Bu ve altındakiler sihirli değnektir */
-  align-items: center; /* Dikeyde tam orta */
-  justify-content: center; /* Yatayda tam orta */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .strategy-icon {
-  fill: #2e2f42; /* Koyu lacivert/siyah tonu */
+  fill: #2e2f42;
   width: 64px;
   height: 64px;
 }
+
